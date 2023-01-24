@@ -1,2 +1,2 @@
 # Booty-s-Pack
-Textute pack for private server
+Texture pack for private server
